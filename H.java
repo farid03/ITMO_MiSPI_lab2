@@ -47,4 +47,8 @@ public class H implements J, B, F {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
