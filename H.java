@@ -43,4 +43,8 @@ public class H implements J, B, F {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
