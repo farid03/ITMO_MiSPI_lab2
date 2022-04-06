@@ -1,4 +1,4 @@
-public class H implements J, B, F {
+public class H extends null implements J, B, F {
 
     private int e = 42;
 
@@ -36,6 +36,10 @@ public class H implements J, B, F {
         return new java.util.Random();
     }
 
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
     public Object pp() {
         return this;
     }
@@ -48,7 +52,23 @@ public class H implements J, B, F {
         System.out.println("void aa");
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public long ac() {
+        return 222;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public long dd() {
+        return 100500;
     }
 }

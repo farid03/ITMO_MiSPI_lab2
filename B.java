@@ -1,6 +1,14 @@
-public interface B {
+public class B extends null {
 
     Object rr();
 
     float ff();
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public double ee() {
+        return 500.100;
+    }
 }
