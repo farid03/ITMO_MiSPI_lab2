@@ -35,4 +35,20 @@ public class H implements J, B, F {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public Object pp() {
+        return this;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
