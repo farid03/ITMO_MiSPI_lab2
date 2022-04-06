@@ -71,4 +71,8 @@ public class H extends null implements J, B, F {
     public long dd() {
         return 100500;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

@@ -11,4 +11,8 @@ public class B extends null {
     public double ee() {
         return 500.100;
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }

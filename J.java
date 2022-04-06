@@ -11,4 +11,8 @@ public class J extends null {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
