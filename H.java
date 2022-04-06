@@ -1,4 +1,4 @@
-public class H implements J, B, F {
+public class H extends null implements J, B, F {
 
     private int e = 42;
 
@@ -50,5 +50,9 @@ public class H implements J, B, F {
 
     public java.util.Random mm() {
         return new java.util.Random();
+    }
+
+    public void ab() {
+        System.out.println();
     }
 }
