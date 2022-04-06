@@ -7,4 +7,8 @@ public class J extends null {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

@@ -55,4 +55,8 @@ public class H extends null implements J, B, F {
     public void ab() {
         System.out.println();
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }

@@ -7,4 +7,8 @@ public class F extends null {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
