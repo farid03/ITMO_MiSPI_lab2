@@ -39,4 +39,8 @@ public class H implements J, B, F {
     public Object pp() {
         return this;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
